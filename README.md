@@ -15,6 +15,12 @@ https://www.linkedin.com/in/sake/
 - IBM Data Science Professional Certificate (In Progress)
 - [Certified Scrum Master](https://bcert.me/bc/html/show-badge.html?b=cadmfhqf)
 - [Scrum Product Own](https://bcert.me/bc/html/show-badge.html?b=sitzbsim)
+- SAP Certified Application Associate - Business Intelligence with SAP NetWeaver 7.0
+
+**Learning**
+- [Microsoft Azure Synapse for Developers (2020)](https://www.linkedin.com/learning/certificates/a91eb9e6970e9df98bacd7a3b1d09d8c6295a01b259e2fa42261b78463bb7801?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrdeceluwTBaaP0pnO1lhXg%3D%3D)
+- [Hands-On Essentials - Datawarehouse (Snowflake)](https://www.credly.com/badges/afb721ea-ca47-44a8-a476-6fc5994174dc?source=linked_in_profile)
+- [Learning SAP Analytics Cloud](https://www.linkedin.com/learning/certificates/74da9a300b68b136fd5ef2c88a95271c4d7256da7beab6a870fdb7e4cbc880d1?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrdeceluwTBaaP0pnO1lhXg%3D%3D)
 <!---
 Supasakd/Supasakd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
