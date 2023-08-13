@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Sam. I was born in Thailand. Now, I live in Toronto/Canada. I have +15 years of experience in the data analytics space, and now I work at TD Bank as a Senior Business Information Analyst in the Retail Risk Management area.
+- 👋 Hi, My name is Sam. I was born in Thailand. Now, I live in Toronto/Canada. I have +15 years of experience in the data analytics space, and now I work at TD Bank as a `Senior Business Information Analyst` in the Retail Risk Management area.
 - 👀 I’m interested in learning more about data analytics solutions and improving my business and technical skills to support my users/clients.
 - 🌱 I’m currently focusing on Databrick/SQL/Python/PowerBI/Tableau in the customer data domains.
 
