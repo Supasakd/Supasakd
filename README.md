@@ -14,7 +14,7 @@ https://www.linkedin.com/in/sake/
 - IBM Data Analyst Professional Certificate (Completed on 202)
 - IBM Data Science Professional Certificate (In Progress)
 - Certified Scrum Master [(https://bcert.me/bc/html/show-badge.html?b=cadmfhqf)]
-- Scrum Product Owner [(https://bcert.me/bc/html/show-badge.html?b=sitzbsim)]
+- Scrum Product Owner [[(https://bcert.me/bc/html/show-badge.html?b=sitzbsim)]](url)
 <!---
 Supasakd/Supasakd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
