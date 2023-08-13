@@ -6,8 +6,8 @@
 https://www.linkedin.com/in/sake/
 
 **Languages and Tools:**
-Language: SQL, Python
-BI Tools: PowerBI, Tableau, SAP Business Objects
+- Language: SQL, Python
+- BI Tools: PowerBI, Tableau, SAP Business Objects
 Datawarehouse: Databricks / SAP BW / Azure SQL DB
 
 <!---
