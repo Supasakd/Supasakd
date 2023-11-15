@@ -12,7 +12,7 @@ https://www.linkedin.com/in/sake/
 
 **Certifications**
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/Y2ARP7RVRW56) (Completed on February 2022) 
-- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GW85H74X6VSN) (Completed on October 1)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GW85H74X6VSN) (Completed on October 2023)
 - [Certified Scrum Master](https://bcert.me/bc/html/show-badge.html?b=cadmfhqf)
 - [Scrum Product Own](https://bcert.me/bc/html/show-badge.html?b=sitzbsim)
 - SAP Certified Application Associate - Business Intelligence with SAP NetWeaver 7.0
